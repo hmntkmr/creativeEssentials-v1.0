@@ -15,9 +15,6 @@ h1{
 	line-height: 2em;
 }
 
-
-
-
 .hero{
 	background-image: url("img/hero.jpg");
 	width: 100%;
@@ -43,7 +40,17 @@ h1{
 
 .slider span{
 	color: black;
+}
 
+.onefourth{
+	background-color: green;
+	height: 300px;
+}
+
+.onefourthsecond{
+	background-color: red;
+
+	height: 300px;
 }
 
 /*
